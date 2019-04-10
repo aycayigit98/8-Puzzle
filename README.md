@@ -6,6 +6,7 @@ We have some rules in order to solve 8-Puzzle. Instead of moving the tiles in th
 2. Down
 3. Right
 4. Left
+
 and can take only one step at a time.
 
 Since uninformed search techniques take a lot of time to complete a search, since they don't know where to look, we use informed search.
